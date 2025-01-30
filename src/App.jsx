@@ -15,8 +15,8 @@ function App() {
           <FiCheckCircle className="success-icon" />
           <span>Déploiement Réussi</span>
         </div>
-        <h1>Félicitations !</h1>
-        <p className="subtitle">Votre application a été déployée avec succès sur Amazon ECS</p>
+        <h1>Merci d'avoir suivi cette démonstration</h1>
+        <p className="subtitle">Cette application a été déployée avec succès</p>
         
         <div className="info-card">
           <div className="info-header">
@@ -24,13 +24,12 @@ function App() {
             <h2>CloudPilot Demo</h2>
           </div>
           <div className="info-content">
-            <p>Merci d'avoir suivi cette démonstration de CloudPilot.</p>
-            <p>Cette page confirme que votre pipeline de déploiement fonctionne parfaitement.</p>
+            <p>Développée par Alenas, Eric, Walid, Salaheddine et Haitame</p>
           </div>
         </div>
 
         <div className="tech-badge">
-          Propulsé par CloudPilot & Amazon ECS
+          Propulsé par CloudPilot🚀
         </div>
       </div>
     </div>
